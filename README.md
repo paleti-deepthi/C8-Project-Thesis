@@ -136,11 +136,24 @@ The system follows a **3-tier architecture**:
 - ⚡ Fast API with caching  
 - 🗺️ Location-based map visualization  
 
+
+## 🔬 Research Contribution
+This project demonstrates how Machine Learning + Real-time Data Integration can be combined to build an intelligent environmental monitoring system that provides:
+- Accurate AQI predictions  
+- Actionable health insights  
+- User-friendly visualization  
+
 ---
 
-## 🚀 Installation & Setup
+## 🔮 Future Work
+- Mobile application integration  
+- Multi-country AQI support  
+- Advanced deep learning models (LSTM, Transformers)  
+- Personalized health alerts  
+- Voice-based chatbot  
 
-### 1. Clone Repository
-```bash
-git clone https://github.com/your-username/air-o-health.git
-cd air-o-health
+---
+
+## 🏫 Institution
+Department of Computer Science and Engineering  
+Bapatla Engineering College  

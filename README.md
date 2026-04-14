@@ -1,4 +1,4 @@
-# 🌍 Air Quality Monitoring and Predictive Health Risk System using Ensemble Learning
+# Air Quality Monitoring and Predictive Health Risk System using Ensemble Learning 🌏
 
 ## 👩‍💻 Authors
 - P. Deepthi (Y22ACS519)  

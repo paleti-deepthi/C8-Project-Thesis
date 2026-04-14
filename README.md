@@ -157,3 +157,14 @@ This project demonstrates how Machine Learning + Real-time Data Integration can 
 ## 🏫 Institution
 Department of Computer Science and Engineering  
 Bapatla Engineering College  
+
+---
+
+## 🔗 GitHub Repository
+
+The source code for the Air-O-Health system is available in the following repository:
+
+### Air-O-Health System
+Complete implementation of AQI Prediction, Live Monitoring, Health Advisory System, and Web Dashboard.
+
+🔗 https://github.com/paleti-deepthi/Air-O-Health

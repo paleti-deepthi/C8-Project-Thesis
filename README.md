@@ -1,4 +1,4 @@
-# 🌍 Air-O-Health: AQI Prediction & Health Advisory System
+# 🌍 Air Quality Monitoring and Predictive Health Risk System using Ensemble Learning
 
 ## 👩‍💻 Authors
 - P. Deepthi (Y22ACS519)  
